@@ -13,7 +13,7 @@ spec:
   # for a valid, green certificate in your browser
   #  secretName: ssl-cert-staging
   rules:
-  - host: <YOUR_IP>.nip.io
+  - host: 34.165.255.94.nip.io
     http:
       paths:
       - path: /
